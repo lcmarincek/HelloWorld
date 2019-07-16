@@ -8,6 +8,9 @@
 #ifndef HELLOWORLD_H_
 #define HELLOWORLD_H_
 
+
+/* Edited in GitHub */
+
 class HelloWorld {
 public:
 	HelloWorld();
