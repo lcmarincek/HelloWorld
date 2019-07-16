@@ -18,6 +18,6 @@ public:
 	virtual ~HelloWorld();
 	/* Edited in Github */
 };
-
+/* Edited in Eclipse */
 /* Edited in GitHub */
 #endif /* HELLOWORLD_H_ */
