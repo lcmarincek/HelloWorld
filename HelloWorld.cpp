@@ -8,7 +8,7 @@
 #include "HelloWorld.h"
 
 HelloWorld::HelloWorld() {
-	// TODO Auto-generated constructor stub
+	// TODO Auto-generated constructor stub1
 
 }
 
