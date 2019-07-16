@@ -15,6 +15,7 @@ class HelloWorld {
 public:
 	HelloWorld();
 	virtual ~HelloWorld();
+	/* Edited in Github */
 };
 
 #endif /* HELLOWORLD_H_ */
