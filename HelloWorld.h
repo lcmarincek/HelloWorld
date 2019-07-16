@@ -19,4 +19,5 @@ public:
 	/* Edited in Github */
 };
 
+/* Edited in GitHub */
 #endif /* HELLOWORLD_H_ */
