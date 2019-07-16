@@ -7,6 +7,8 @@
 
 #include "HelloWorld.h"
 
+
+/* Branch BR2 */
 HelloWorld::HelloWorld() {
 	// TODO Auto-generated constructor stub1,5
 
