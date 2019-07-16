@@ -14,6 +14,7 @@ HelloWorld::HelloWorld() {
 
 }
 
+/* On BR1, after creation of Br2 */
 HelloWorld::~HelloWorld() {
 	// TODO Auto-generated destructor stub
 }
