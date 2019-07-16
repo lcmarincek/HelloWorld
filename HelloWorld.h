@@ -14,6 +14,7 @@
 class HelloWorld {
 public:
 	HelloWorld();
+	/* Edited in Eclipse */
 	virtual ~HelloWorld();
 	/* Edited in Github */
 };
