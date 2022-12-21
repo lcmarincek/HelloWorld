@@ -10,6 +10,7 @@
 int main()
 {
 	printf("Hello World!!!!!!!!!\n");
+	printf("Good Morning America!\n");
 
 }
 
